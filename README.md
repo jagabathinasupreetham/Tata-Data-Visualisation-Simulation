@@ -2,7 +2,7 @@
 
 ## 🖼️ Dashboard Preview
 <p align="center">
-  <img src="dashboard-preview.png" alt="Tata Data Visualisation Dashboard" width="850"/>
+  <img src="tata dashboard.png" alt="Tata Data Visualisation Dashboard" width="850"/>
 </p>
 
 ---
